@@ -1,2 +1,2 @@
 # accuterra-maps-android-samples
-a collection of samples demonstrating use of AccuTerra maps in Android
+Collection of samples demonstrating use of AccuTerra Maps in Android.
