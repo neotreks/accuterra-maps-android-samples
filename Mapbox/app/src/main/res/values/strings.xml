@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mapbox AccuTerra Maps Demo</string>
+    <string name="mapbox_access_token">YOUR-PUBLIC-KEY-HERE</string>
+</resources>
